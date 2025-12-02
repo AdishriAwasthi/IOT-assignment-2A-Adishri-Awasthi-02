@@ -1,5 +1,5 @@
 
-//@owner Adishri Awasthi
+//@owner Adishri Awasthii
 void setup() {
   Serial.begin(9600);
   Serial.println("IoT Device Started...");
